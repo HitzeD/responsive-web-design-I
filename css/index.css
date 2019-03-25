@@ -361,5 +361,8 @@ footer {
         width: 410px;
     }
 
+    .container .services-header-img {
+        margin-top: 0;
+    }
 
 }
